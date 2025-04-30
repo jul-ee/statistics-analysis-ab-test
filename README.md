@@ -4,7 +4,8 @@
 
 각각의 문제에 대해 가설을 설정하고 통계량을 계산한 후, 실제 비즈니스 의사결정에 어떤 영향을 미칠 수 있는지 해석하는 것을 목표로 합니다.
 
-> 🛠️ 사용 환경: &nbsp;Python (Pandas, Numpy, Matplotlib, Seaborn), Jupyter Notebook
+> 🛠️ 사용 환경: &nbsp;Python, Pandas, NumPy, Matplotlib, Seaborn  
+> 💻 실행 환경: &nbsp;Jupyter Notebook
 
 > 자세한 분석 과정 및 결과 해석은 [🔗Notebook 파일](https://github.com/jul-ee/statistics-analysis-ab-test/blob/main/statistics_analysis_ab_test/%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D%20%EB%B0%8F%20AB%20%ED%85%8C%EC%8A%A4%ED%8A%B8.ipynb)에서 확인하실 수 있습니다.
 
@@ -141,6 +142,6 @@
 
 <br>
 
->데이터 분석 결과를 해석하고 실제 의사결정에 어떻게 연결될 수 있을지를 고민하며, 통계적 관점에서 판단하고 사고하는 과정을 연습하는 데 중점을 두었다.
+>데이터 분석 결과를 해석하고 실제 의사결정에 어떻게 연결될 수 있을지를 고민하며, 통계적 관점에서 판단하고 사고하는 과정을 연습하는 데 중점을 두었습니다.
 
 <br>
